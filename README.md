@@ -32,4 +32,14 @@ Here are the uses of each bitwise operator:-
 
 - Right Shift (>>) Operator:
 
+  Shifts the bits of the left operand (a) to the right by n positions. The behavior depends on the type of shift (logical or arithmetic) and the sign of the original number. In the logical right shift, zeros are padded on the left, while in the arithmetic right shift, the sign bit is preserved (it's filled with the original sign bit).
+
+  For e.g ( A >> B)
+
+- NOT ( ~ )Operator:
+
+  Performs complement operation on each of the bit of the operand. It inverts '1s' to '0s' and '0s'to '1s'.
+
+  For e.g ( ~A)
+
 
