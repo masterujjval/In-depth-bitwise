@@ -1,6 +1,6 @@
 # In-depth-bitwise
 
-## About
+## About Bitwise Operators
 
 Bitwise operators are the fundamental operators in computer programming that are useful for manipulating individual bits in binary representation. These operators are commonly used in low-level programming, embedded systems, and various other applications where precise control over the binary representation of data is necessary.
 
@@ -41,5 +41,13 @@ Here are the uses of each bitwise operator:-
   Performs complement operation on each of the bit of the operand. It inverts '1s' to '0s' and '0s'to '1s'.
 
   For e.g ( ~A)
+
+## About The Repository
+
+This repository contains all the bitwise operations except NOT (~) Operator. The source code shows the working of each operator with their elaborate arithmetic operation being done on the operands.
+
+Copy the source code and run it on any IDE which supports C++.
+
+Fork the repo to make any contribution.
 
 
